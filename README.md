@@ -9,4 +9,8 @@ Boundary scan is a method for testing interconnects (wire lines) on printed circ
 - Design module [topmodule.v](https://github.com/Praranya/Boundary-Scan-/blob/main/sources_1/new/topmodule.v).
 - Test bench [topmodule_tb.v](https://github.com/Praranya/Boundary-Scan-/blob/main/sim_1/new/topmodule_tb.v).
 - waveform
-  Extest
+  Extest:<br> ![alt text](https://github.com/Praranya/Boundary-Scan-/blob/main/Boundary_pics/extest.JPG)
+  Intest:<br> ![alt text](https://github.com/Praranya/Boundary-Scan-/blob/main/Boundary_pics/intest.JPG)
+  - Synthesised block level diagram:<br>![alt text](https://github.com/Praranya/Boundary-Scan-/blob/main/Boundary_pics/schematic.JPG)
+  - FSM:<br>![alt text](https://github.com/Praranya/Boundary-Scan-/blob/main/Boundary_pics/fsm.JPG)
+
